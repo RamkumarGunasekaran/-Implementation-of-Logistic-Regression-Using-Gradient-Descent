@@ -101,9 +101,26 @@ print(y_prednew)
 
 ```
 ## Output:
-## Read and file and Display
+## Read and file and Display:
 ![328127425-cb244b14-56e7-491b-a316-3f7f6821e1a7](https://github.com/RamkumarGunasekaran/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144870820/9dc2698a-c129-42c4-bbdb-da85c3dcea16)
 
+## Categorizing columns:
+![328127551-1419f9fd-7720-4c06-8e22-d42be9e58378](https://github.com/RamkumarGunasekaran/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144870820/65895b94-4a98-489b-97be-f74e1811d892)
+
+## Labelling columns and displaying dataset:
+![328127646-0a1a2fb4-c8aa-4cf7-90fb-cc7f12b94e58](https://github.com/RamkumarGunasekaran/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144870820/3bf40545-6285-4b15-bbef-e139c446e5fa)
+
+## Display dependent variable:
+![328127785-dcc8c7a9-045a-48db-b0f6-26b8816e7c59](https://github.com/RamkumarGunasekaran/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144870820/39d7f490-0a65-4074-aa12-b1d5e287b0e1)
+
+## Printing accuracy:
+![328127872-43a1af40-a59b-4ee9-9adc-2fa98b0744b7](https://github.com/RamkumarGunasekaran/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144870820/8b5835d0-5296-48e5-8ad1-2218f18dd715)
+
+## Printing Y:
+![328127995-d5812479-a68a-47e0-bd9d-971d61dfc2bd](https://github.com/RamkumarGunasekaran/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144870820/3c4e6e4d-1c2c-477c-b422-0e6c87d9040b)
+
+## Printing y_prednew:
+![328128107-4731cafd-ee77-4464-aa1a-cf03ea783802](https://github.com/RamkumarGunasekaran/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/144870820/7f30598e-e6c9-499e-8164-b00c85081400)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
